@@ -1,8 +1,10 @@
-# Maintainer's Virtue
+# Maintainer's Virtue ([All Things Open 2018](https://allthingsopen.org))
 
-## [Slides](https://www.henryzoo.com/maintainers-virtue) | Video TBD | ~15min
+## [Slides](https://www.henryzoo.com/maintainers-virtue) | [Video](https://www.youtube.com/watch?v=6qaupQ0KnkU) | ~15min
 
-At: [All Things Open 2018](https://allthingsopen.org)
+> video has no embedded slides so may need to look at both
+
+[![talk](https://i.imgur.com/nOhIBt7.jpg)](https://www.youtube.com/watch?v=6qaupQ0KnkU)
 
 ## Quotes
 
